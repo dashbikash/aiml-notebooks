@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/dashbikash-aiml-notebooks-04wkj7z1/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 19,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "YXo1ydlWSNeyhcTytfYYYA",
+  "url": "http://jupyter-dashbikash-aiml-notebooks-04wkj7z1:8888/user/dashbikash-aiml-notebooks-04wkj7z1/",
+  "version": "2.15.0"
+}

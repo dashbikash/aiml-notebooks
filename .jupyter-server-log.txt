@@ -64,3 +64,9 @@ Launching jupyter-lab
 [I 2025-07-21 10:10:48.927 ServerApp] Starting buffering for 6b7f4d96-1240-43b9-8a6e-f5488a993505:b0f57f92-0d2b-4919-b1a1-c9d9d0a9485a
 [I 2025-07-21 10:10:49.170 ServerApp] Connecting to kernel 6b7f4d96-1240-43b9-8a6e-f5488a993505.
 [I 2025-07-21 10:10:49.800 ServerApp] Connecting to kernel 6b7f4d96-1240-43b9-8a6e-f5488a993505.
+[I 2025-07-21 10:13:29.430 ServerApp] Saving file at /eda/EDA-With-DATAPREP.ipynb
+[I 2025-07-21 10:14:06.596 ServerApp] Saving file at /eda/EDA-With-DATAPREP.ipynb
+[I 2025-07-21 10:14:08.909 ServerApp] Saving file at /eda/EDA-With-DATAPREP.ipynb
+[I 2025-07-21 10:15:09.469 ServerApp] Saving file at /eda/EDA-With-DATAPREP.ipynb
+[I 2025-07-21 10:15:13.740 ServerApp] Saving file at /eda/EDA-With-DATAPREP.ipynb
+[I 2025-07-21 10:15:16.027 ServerApp] Saving file at /eda/EDA-With-DATAPREP.ipynb
